@@ -17,7 +17,7 @@ def hello_world():
 
 # the bot code deleted to simplify
 
-uri = os.environ.get('DATABASE_URL')
+uri = os.environ.get('postgres://ktpkryydfoopqw:24gVoST3zpAWPDWv7f5nmPvf1u@ec2-54-75-238-7.eu-west-1.compute.amazonaws.com:5432/d7ev4d45afhalo')
 engine = create_engine(uri)
 Base = declarative_base()
 

@@ -1,5 +1,4 @@
-bob-builder==0.0.5
 flask
 flask-heroku
-sqlalchemy
 telepot
+sqlalchemy
