@@ -28,7 +28,7 @@ if __name__ == '__main__':
     Session = sessionmaker(bind=engine)
     session = Session()
 
-    TOKEN = 'token'
+    TOKEN = '222115522:AAFQGKb1h78PP1y0TvVwg-HCkd0X8U84kVg'
 
     bot = MyBot(TOKEN)  # the bot stuff here
     bot.message_loop()  # but the bot stuff just doesn't work
