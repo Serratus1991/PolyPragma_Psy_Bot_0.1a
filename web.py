@@ -1,4 +1,4 @@
-import StringIO
+import io
 import json
 import logging
 import random
