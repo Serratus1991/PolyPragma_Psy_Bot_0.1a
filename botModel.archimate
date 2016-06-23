@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Psy_Tel_bot" id="9eea3c1a" version="3.1.1">
+  <folder name="Business" id="51f1518d" type="business"/>
+  <folder name="Application" id="1e094e35" type="application"/>
+  <folder name="Technology" id="bd9a1ca7" type="technology"/>
+  <folder name="Motivation" id="5ea32fb6" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="10411a17" type="implementation_migration"/>
+  <folder name="Connectors" id="92016e3a" type="connectors"/>
+  <folder name="Relations" id="2692789f" type="relations"/>
+  <folder name="Views" id="0d6e94be" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" id="a5daf476" name="Default View"/>
+  </folder>
+</archimate:model>
