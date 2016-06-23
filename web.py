@@ -2,11 +2,11 @@ import io
 import json
 import logging
 import random
-import urllib
-import urllib2
+import urllib.request, urllib.parse, urllib.error
+
 
 # for sending images
-from PIL import Image
+import pillow
 import multipart
 
 # standard app engine imports
