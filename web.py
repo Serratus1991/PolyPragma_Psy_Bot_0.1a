@@ -6,7 +6,7 @@ import urllib.request, urllib.parse, urllib.error
 
 
 # for sending images
-import Pillow
+from PIL import Image
 import multipart
 
 # standard app engine imports
